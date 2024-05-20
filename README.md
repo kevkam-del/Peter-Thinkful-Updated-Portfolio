@@ -1,5 +1,5 @@
 <h1>Pete's Thinkful Updated Portfolio</h1> 
-<p>Updated Thinkful's Porfilio website using Flexbox and Box Model.</p>
+<p>Updated Thinkful's Portfolio website using Flexbox and Box Model.</p>
 
 <h2>About Me</h2>
 
